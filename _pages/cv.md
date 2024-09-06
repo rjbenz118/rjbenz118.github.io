@@ -17,10 +17,13 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2022 - August 2022: Janitor
+  * Gravenstine elementary school
+  * Duties includes: 
+    * Performed thorough cleaning of classrooms, including sweeping and vacuuming
+    * Removed trash and ensured proper disposal
+    * Organized and moved various items as needed
+    * Cleaned outdoor areas and eliminated spider webs for a tidy appearance
 
 * Fall 2015: Research Assistant
   * Github University
