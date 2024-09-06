@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*
 
 Work experience
 ======
@@ -25,10 +23,12 @@ Work experience
     * Organized and moved various items as needed
     * Cleaned outdoor areas and eliminated spider webs for a tidy appearance
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2021 - February 2022: Instructional Aide
+  * Hillcrest Middle School
+  * Duties included:
+    * Provide one-on-one and group support to students, focusing on reinforcing lessons, improving comprehension, and promoting academic achievement.
+    * Supervise students during non-classroom activities including lunch breaks, recess, and field trips to ensure safety and positive behavior.
+    * Aid in maintaining classroom discipline by implementing behavioral management strategies and helping resolve conflicts.
 
 * Summer 2015: Research Assistant
   * Github University
@@ -43,25 +43,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
