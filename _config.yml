@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Rich Benz"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "They/Them"  
+  bio              : "Studing film at the SRJC"
+  location         : "Cotati"
+  employer         : "SantaRosa Junior Collage"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rjbenz118@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,14 +48,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : RichBenz188
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
