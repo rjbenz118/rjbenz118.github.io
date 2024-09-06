@@ -30,16 +30,9 @@ Work experience
     * Supervise students during non-classroom activities including lunch breaks, recess, and field trips to ensure safety and positive behavior.
     * Aid in maintaining classroom discipline by implementing behavioral management strategies and helping resolve conflicts.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Audio Engineering
+* Educational Leadership
+* Educational Technology
